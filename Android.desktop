@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Android
+Exec=/home/aluno/Aplicativos/android-studio/bin/studio.sh
+Comment=
+Terminal=false
+Icon=/home/aluno/Aplicativos/android-studio/bin/studio.png
+Type=Application

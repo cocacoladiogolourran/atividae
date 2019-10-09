@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=astah* UML
+Comment=UML modeling tool
+Comment[ja]=UMLモデリングツール
+Exec=astah-uml
+Icon=astah_uml.png
+NoDisplay=false
+Terminal=false
+Type=Application
+Categories=Application;Utility;
+MimeType=application/x-astah
